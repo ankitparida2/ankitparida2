@@ -1,3 +1,4 @@
+![LOGO](https://github.com/ankitparida2/ankitparida2/blob/main/github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Ankit Parida</h1>
 <h3 align="center">“Aspiring Data Scientist”</h3>
 <p align="right">
