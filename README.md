@@ -1,7 +1,7 @@
 ![LOGO](https://github.com/ankitparida2/ankitparida2/blob/main/github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Ankit Parida</h1>
 <h3 align="center">“Aspiring Data Scientist | Generative AI & Machine Learning Enthusiast | Data Analytics Explorer”</h3>
-<img align="right"src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding gif" width="300"/>
+<img align="right"src="https://cdn.tgdd.vn/Files/2018/07/06/1099621/front-end-developers-openings_680x428.gif" alt="coding gif" width="300"/>
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitparida2?tab=repositories](https://github.com/ankitparida2?tab=repositories)
